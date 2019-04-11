@@ -8,4 +8,4 @@
 2) MLP(Using Dropouts and Batch Normalization):
  In this project, I tried out models with different architectures and experimented with number of layers on MNIST data.
 .Included error plots for visual description
-.Finally, compared all the models in a tabular format
+
